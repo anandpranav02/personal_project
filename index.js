@@ -1,4 +1,4 @@
-/* app.js */
+/* index.js */
 const express = require('express');
 const app = express();
 const port = 3000;
@@ -16,17 +16,17 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="profile-container">
-                <img src="/profile.jpg" alt="Profile Picture" class="profile-pic">
-                <h1>Your Name</h1>
-                <p>Software Developer | JavaScript Enthusiast</p>
+                <img src="/photograph.jpg" alt="Profile Picture" class="profile-pic">
+                <h1>Pranav nand</h1>
+                <p>Decision Analyst | Data Science Enthusiast</p>
                 <h2>About Me</h2>
                 <p>
-                    Welcome to my personal profile! I am passionate about web development, Node.js, and building cool projects.
+                    Welcome to my personal profile! I am passionate about Data Science, Banking, and building cool projects.
                 </p>
-                <h2>Contact</h2>
+                <h2>+91 9770841128</h2>
                 <ul>
-                    <li>Email: your.email@example.com</li>
-                    <li>GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></li>
+                    <li>Email: pranavanand2@outlook.com</li>
+                    <li>GitHub: <a href="https://github.com/anandpranav02" target="_blank">anandpranav02</a></li>
                 </ul>
             </div>
         </body>
