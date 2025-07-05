@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
         <body>
             <div class="profile-container">
                 <img src="/photograph.jpg" alt="Profile Picture" class="profile-pic">
-                <h1>Pranav nand</h1>
+                <h1>Pranav Anand</h1>
                 <p>Decision Analyst | Data Science Enthusiast</p>
                 <h2>About Me</h2>
                 <p>
